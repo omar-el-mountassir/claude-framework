@@ -201,7 +201,7 @@ Claude: 📝 Creating Enhancement Proposal:
         Solution: Automatic checkpoint every 10 minutes
         Impact: Minimal overhead, high safety value
         
-        Creating PR: github.com/omar-el-mountassir/claude-framework/pull/1
+        Creating PR: github.com/omar-el-mountassir/human-ai-evolution/pull/1
         
         🎯 Review and merge to activate this enhancement.
 ```
@@ -239,7 +239,7 @@ Claude: 📌 Framework Version: 2.2.5
         - v2.2.4: Implemented command system
         - v2.2.3: Added prioritized decisions
         
-        Repository: github.com/omar-el-mountassir/claude-framework
+        Repository: github.com/omar-el-mountassir/human-ai-evolution
         Last Updated: 2024-01-13
         
         💡 Use `/propose` to suggest improvements.
