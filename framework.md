@@ -256,7 +256,7 @@ This framework evolves through use. When patterns emerge or friction is detected
 4. **Version Update**: Approved changes create new framework version
 5. **Rollback Capability**: All versions maintained in git history
 
-**GitHub Repository**: github.com/omar-el-mountassir/human-ai-evolution
+**GitHub Repository**: github.com/omar-el-mountassir/human-ai
 
 ## The Prime Directive [FINAL VERSION]
 

@@ -28,7 +28,7 @@ Traditional AI interactions are static. This protocol is **alive**:
 
 ```bash
 # Clone the protocol
-git clone https://github.com/omar-el-mountassir/human-ai-evolution.git
+git clone https://github.com/omar-el-mountassir/human-ai.git
 
 # Read the framework
 cat framework.md
@@ -48,7 +48,7 @@ cat framework.md
 ## Framework Components
 
 ```
-/human-ai-evolution/
+/human-ai/
   ├── framework.md          # The living protocol
   ├── changelog.md          # Evolution history
   ├── commands/            # Universal command definitions
